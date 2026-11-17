@@ -1,3 +1,1 @@
-This is a sample file
-This line is to show how github works
-This is a 3rd line
+This is a sample file I edited
